@@ -15,3 +15,23 @@ in our dictionary.
 After each word is tranlated, we then
 print out the translated sentence to the user. 
 """
+"""
+main():
+    set sentence = input()
+    set dictionary - creat_directionary ()
+    translate(sentence, dictionary)
+
+Translate(sentence, dictionary):
+    woords= for each of the word in the sentence 
+    for each words, translate the word
+     print translate sentence to user
+    
+create_dictionary(infile):
+    read textese.txt
+    create list = each line form file
+    close the file
+    create a dict off of the list 
+    return the list
+
+main()
+"""
